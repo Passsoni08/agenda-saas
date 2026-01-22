@@ -137,3 +137,4 @@ REST_FRAMEWORK = {
         "rest_framework.permissions.IsAuthenticated",
     ),
 }
+DEFAULT_CHARSET = "utf-8"
